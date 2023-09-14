@@ -52,10 +52,10 @@
             >New to Simplecoding?</small
           >
           <p class="text-center">
-            <router-link
+            <!-- <router-link
               :to="{ name: 'Signup' }"
               class="btn btn-dark text-center mx-auto px-5 py-1 mb-2"
-              >Create Your Simplecoding Account</router-link
+              >Create Your Simplecoding Account</router-link -->
             >
           </p>
         </div>
