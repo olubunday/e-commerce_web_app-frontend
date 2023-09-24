@@ -13,7 +13,7 @@
     <div id="start-shopping" class="container">
       <div class="row">
         <div class="col-12 text-left">
-          <h2 class="pt-3">Latest television in Store</h2>
+          <h2 class="pt-3">Latest Products in Store</h2>
         </div>
       </div>
       <div class="row">
@@ -43,7 +43,7 @@
     <div class="container">
       <div class="row">
         <div class="col-12 text-left">
-          <h2 class="pt-3">Laptops and Smart Phones</h2>
+          <h2 class="pt-3">Deals on Electronics</h2>
         </div>
       </div>
       <div class="row">
